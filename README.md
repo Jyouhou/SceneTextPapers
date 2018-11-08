@@ -10,25 +10,25 @@ __This repository will be updated in the following days, together with our paper
 
 ## Papers
 
-### Before: Deep Learning Papers  You Must Know
+### I. Before: Deep Learning Papers  You Must Know
 
-### Main: Scene Text Detection and Recognition
+### II. Main: Scene Text Detection and Recognition
 
-#### Detection
+#### 2.1 Detection
 
-##### Pipeline Simplification
+##### 2.1.1 Pipeline Simplification
 
 ###### Anchor-based methods
 
 ###### Region proposal methods
 
-##### Differnt Prediction Units
+##### 2.1.2 Differnt Prediction Units
 
 ###### Text instance level
 
 ###### Sub-component
 
-##### Specific Targets
+##### 2.1.3 Specific Targets
 
 ###### Long text
 
@@ -42,29 +42,29 @@ __This repository will be updated in the following days, together with our paper
 
 ###### Retrieving designated text
 
-###### Against Complex Background
+###### Against complex background
 
-#### Recognition
+#### 2.2 Recognition
 
-##### CTC based methods
+##### 2.2.1 CTC based methods
 
-##### Attention based methods
+##### 2.2.2 Attention based methods
 
-#### End-to-End Text Spotting
+#### 2.3 End-to-End Text Spotting
 
-#### Auxilliary Techs
+#### 2.4 Auxilliary Techs
 
-##### Synthetic Data
+##### 2.4.1 Synthetic Data
 
-##### Bootstrapping
+##### 2.4.2 Bootstrapping
 
-##### Deblurring
+##### 2.4.3 Deblurring
 
-##### Context Information
+##### 2.4.4 Context Information
 
-##### Adversarial Attack
+##### 2.4.5 Adversarial Attack
 
-### Datasets
+### III. Datasets
 
 | Dataset (Year) | Image Num (train/test) | Text Num (train/test) | Orientation| Language| Characteristics |
 |:------:|:------:|:------:|:------:|:------:|:------:|

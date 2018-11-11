@@ -188,8 +188,6 @@ __This repository will be updated in the following days, together with our surve
 | [SVHN (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_House_Numbers_(SVHN)_Dataset) | - (-/-) | 600000 (-/-) | Horizontal| -| House number digits | - | ✓ |
 | SVTP (2013) | 639 (-/639) | - (-/-) |  | En | Distorted | - | ✓ |
 
-|====|====|====|====|====|====|====|====|
-
 
 
 

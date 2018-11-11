@@ -137,6 +137,7 @@ __This repository will be updated in the following days, together with our surve
 3. __Towards End-To-End Text Spotting With Convolutional Recurrent Neural Networks.__ _Li, Hui and Wang, Peng and Shen, Chunhua_. 2017 [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 4. __An End-to-End TextSpotter With Explicit Alignment and Attention.__ _He, Tong and Tian, Zhi and Huang, Weilin and Shen, Chunhua and Qiao, Yu and Sun, Changming_. 2018 [paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1390.pdf)
 5. __FOTS: Fast Oriented Text Spotting with a Unified Network.__ _Liu, Xuebo and Liang, Ding and Yan, Shi and Chen, Dagui and Qiao, Yu and Yan, Junjie_. 2018 [paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1699.pdf)
+6. __Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.__ _Lyu, Pengyuan and Liao, Minghui and Yao, Cong and Wu, Wenhao and Bai, Xiang_. 2018 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 
 #### 2.4 Auxilliary Techs
 
@@ -162,23 +163,34 @@ __This repository will be updated in the following days, together with our surve
 
 ### III. Datasets
 
-| Dataset (Year) | Image Num (train/test) | Text Num (train/test) | Orientation| Language| Characteristics |
-|:------:|:------:|:------:|:------:|:------:|:------:|
-| [ICDAR03 (2003)](http://www.iapr-tc11.org/mediawiki/index.php?title=ICDAR_2003_Robust_Reading_Competitions) | 509 (258/251) | 2276 (1110/1156) | Horizontal | En | - |
-| [Char74k (2009)](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/) | 74107 (-/-) | 74107 (-/-) | Horizontal| En, Kanada | Character label |
-| [SVT (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_Text_Dataset) | 350 (100/250) | 904 (257/647) | Horizontal| En| - |
-| [KAIST (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=KAIST_Scene_Text_Database) | 3000 (-/-) | 5000 (-/-) | Horizontal| En, Ko| Distorted |
-| [SVHN (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_House_Numbers_(SVHN)_Dataset) | - (-/-) | 600000 (-/-) | Horizontal| -| House number digits |
-| [NEOCR (2011)](http://www.iapr-tc11.org/mediawiki/index.php?title=NEOCR:_Natural_Environment_OCR_Dataset) | 659 (-/-) | 5238 (-/-) | Multi-oriented| 8 langs| - |
-| [OSTD (2011)](http://media-lab.ccny.cuny.edu/wordpress/cyi/www/project_scenetextdetection.html) | 89 (-/-) | 218 (-/-) | Multi-oriented| En| - |
-| [IIIT 5K-Word (2012)](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html) | 5000 (-/-) | 5000 (2000/3000) | Horizontal| -| cropped |
-| [ICDAR13 Scene Text(2013)](http://dagdata.cvc.uab.es/icdar2013competition/) | 462 (229/233) | - (848/1095) | Horizontal | En | - |
-| [MSRA-TD500 (2012)](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500)) | 500 (300/200) | 1719 (1068/651) |  Multi-Oriented | En, Ch |  Long text |
-| [HUST-TR400 (2014)](http://mclab.eic.hust.edu.cn/UpLoadFiles/dataset/HUST-TR400.zip) | 400 (400/-) | - (-/-) |  Multi-Oriented | En, Ch |  Long text |
-| [ICDAR15 Incidental Text(2015)](http://rrc.cvc.uab.es/?ch=4&com=introduction) | 1500 (1000/500) | - (-/-) | Multi-Oriented | En |  Blur/Small/Defocused |
-| [ICDAR17/RCTW(2017)](http://u-pat.org/ICDAR2017/program_competitions.php) | 12263 (8034/4229) | - (-/-) | Multi-Oriented | Chinese | - |
-| [ICDAR17/RRC-MLT(2017)](http://rrc.cvc.uab.es/?ch=8) | 18000 (9000/9000) | - (-/-) | Multi-Oriented |  9 langs | - |
-| [Total-Text (2017)](https://github.com/cs-chan/Total-Text-Dataset) | 1555 (1255/300) | - (-/-) | Multi-Oriented,  Curved | En, Ch | Irregular/polygon label |
-| [CTW (2017)](https://ctwdataset.github.io) |  32K ( 25K/6K) |  1M ( 812K/205K) | Multi-Oriented | Chinese |  Fine-grained annotation |
-| [CTW1500 (2017)](https://github.com/Yuliang-Liu/Curve-Text-Detector) | 1500 (1000/500) | - (-/-) | Multi-Oriented,  Curved | En | Bounding box with $14$ vertexes |
+| Dataset (Year) | Image Num (train/test) | Text Num (train/test) | Orientation| Language| Characteristics | Detection Task | Recognition Task |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|End2End|====|====|====|====|====|====|====|
+| [ICDAR03 (2003)](http://www.iapr-tc11.org/mediawiki/index.php?title=ICDAR_2003_Robust_Reading_Competitions) | 509 (258/251) | 2276 (1110/1156) | Horizontal | En | - | ✓  | ✓ |
+| [ICDAR13 Scene Text(2013)](http://dagdata.cvc.uab.es/icdar2013competition/) | 462 (229/233) | - (848/1095) | Horizontal | En | - | ✓ | ✓ |
+| [ICDAR15 Incidental Text(2015)](http://rrc.cvc.uab.es/?ch=4&com=introduction) | 1500 (1000/500) | - (-/-) | Multi-Oriented | En |  Blur/Small/Defocused | ✓ | ✓ |
+| [ICDAR17/RCTW(2017)](http://u-pat.org/ICDAR2017/program_competitions.php) | 12263 (8034/4229) | - (-/-) | Multi-Oriented | Chinese | - | ✓ | ✓ |
+| [Total-Text (2017)](https://github.com/cs-chan/Total-Text-Dataset) | 1555 (1255/300) | - (-/-) | Multi-Oriented,  Curved | En, Ch | Irregular/polygon label | ✓ | ✓ | |
+| [SVT (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_Text_Dataset) | 350 (100/250) | 904 (257/647) | Horizontal| En| - | ✓ | ✓ |
+| [KAIST (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=KAIST_Scene_Text_Database) | 3000 (-/-) | 5000 (-/-) | Horizontal| En, Ko| Distorted | ✓ | ✓ |
+| [NEOCR (2011)](http://www.iapr-tc11.org/mediawiki/index.php?title=NEOCR:_Natural_Environment_OCR_Dataset) | 659 (-/-) | 5238 (-/-) | Multi-oriented| 8 langs| - | ✓ | ✓ |
+| [CUTE (2014)](http://cs-chan.com/downloads_CUTE80_dataset.html) | 80 (-/80) | - (-/-) | Curved | En | - | ✓ | ✓ |
+| [CTW (2017)](https://ctwdataset.github.io) |  32K ( 25K/6K) |  1M ( 812K/205K) | Multi-Oriented | Chinese |  Fine-grained annotation | ✓ | ✓ |
+|Detection Only|====|====|====|====|====|====|====|
+| [OSTD (2011)](http://media-lab.ccny.cuny.edu/wordpress/cyi/www/project_scenetextdetection.html) | 89 (-/-) | 218 (-/-) | Multi-oriented| En| - | ✓ | - |
+| [MSRA-TD500 (2012)](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500)) | 500 (300/200) | 1719 (1068/651) |  Multi-Oriented | En, Ch |  Long text | ✓ | - |
+| [HUST-TR400 (2014)](http://mclab.eic.hust.edu.cn/UpLoadFiles/dataset/HUST-TR400.zip) | 400 (400/-) | - (-/-) |  Multi-Oriented | En, Ch |  Long text | ✓ | - |
+| [ICDAR17/RRC-MLT(2017)](http://rrc.cvc.uab.es/?ch=8) | 18000 (9000/9000) | - (-/-) | Multi-Oriented |  9 langs | - | - | - |
+| [CTW1500 (2017)](https://github.com/Yuliang-Liu/Curve-Text-Detector) | 1500 (1000/500) | - (-/-) | Multi-Oriented,  Curved | En | Bounding box with $14$ vertexes | ✓ | - |
+|Recognition Only|====|====|====|====|====|====|====|
+| [Char74k (2009)](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/) | 74107 (-/-) | 74107 (-/-) | Horizontal| En, Kanada | Character label | - | ✓ |
+| [IIIT 5K-Word (2012)](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html) | 5000 (-/-) | 5000 (2000/3000) | Horizontal| -| cropped | - | ✓ |
+| [SVHN (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_House_Numbers_(SVHN)_Dataset) | - (-/-) | 600000 (-/-) | Horizontal| -| House number digits | - | ✓ |
+| SVTP (2013) | 639 (-/639) | - (-/-) |  | En | Distorted | - | ✓ |
+
+|====|====|====|====|====|====|====|====|
+
+
+
+
 

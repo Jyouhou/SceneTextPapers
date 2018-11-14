@@ -5,4 +5,4 @@ This dataset is from the paper: __Multi-Oriented and Multi-Lingual Scene Text De
 
 ## Download
 - (in Chinese) through[百度网盘/Baidu Pan](https://pan.baidu.com/s/1oDh7xjj7mFtpPdTxTya1gg)
-- Google Drive(to-be-updated)
+- [Google Drive](https://drive.google.com/open?id=14pjUQsuNsYpZ4VIKwYZShfVgM4OUUy9c)

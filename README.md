@@ -124,7 +124,8 @@ __This repository will be updated in the following days, together with our surve
 4. __Focusing Attention: Towards Accurate Text Recognition in Natural Images.__ _Cheng, Zhanzhan and Bai, Fan and Xu, Yunlu and Zheng, Gang and Pu, Shiliang and Zhou, Shuigeng_. __ICCV__, 2017 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Cheng_Focusing_Attention_Towards_ICCV_2017_paper.pdf)
 5. __Learning to Read Irregular Text with Attention Mechanisms.__ _Yang, Xiao and He, Dafang and Zhou, Zihan and Kifer, Daniel and Giles, C Lee_. __IJCAI__, 2017 [\[paper\]](http://www.ijcai.org/proceedings/2017/0458.pdf)
 6. __Arbitrarily-Oriented Text Recognition.__ _Cheng, Zhanzhan and Liu, Xuyang and Bai, Fan and Niu, Yi and Pu, Shiliang and Zhou, Shuigeng_. __CVPR__, 2017 [\[paper\]](https://arxiv.org/abs/1711.04226)
-7. __SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network.__ _Liu, Zichuan and Li, Yixing and Ren, Fengbo and Yu, Hao and Goh, Wangling_. __AAAI__, 2018 [\[paper\]](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)
+7. __Edit Probability for Scene Text Recognition.__, _Bai, Fan and Cheng, Zhanzhan and Niu, Yi and Pu, Shiliang and Zhou, Shuigeng_. __CVPR__, 2018 [\[paper\]](https://arxiv.org/pdf/1805.03384.pdf)
+8. __SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network.__ _Liu, Zichuan and Li, Yixing and Ren, Fengbo and Yu, Hao and Goh, Wangling_. __AAAI__, 2018 [\[paper\]](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)
 
 #### 2.3 End-to-End Text Spotting
 ##### 2.3.1 Separately Trained Two-Stage Methods

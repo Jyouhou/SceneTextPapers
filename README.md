@@ -13,11 +13,10 @@ This repo serves as a complement to our working paper:
 ## Papers
 
 ### I. Other Survey Papers:
-1. __Text localization and recognition in images and video.__ _Uchida, Seiichi_. 2014 [\[paper\]](https://link.springer.com/referenceworkentry/10.1007%2F978-0-85729-859-1_28)
-2. __Text detection and recognition in imagery: A survey.__ _Ye, Qixiang and Doermann, David_. __TPAMI__, 2015  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/6945320/)
-3. __Text detection, tracking and recognition in video: A comprehensive survey.__ _Yin, Xu-Cheng and Zuo, Ze-Yu and Tian, Shu and Liu, Cheng-Lin_. __TIP__, 2016 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7452620/)
-4. __Scene text detection and recognition: Recent advances and future trends.__ _Zhu, Yingying and Yao, Cong and Bai, Xiang_. _Frontiers of Computer Science_, 2016[\[paper\]](https://link.springer.com/article/10.1007/s11704-015-4488-0)
-
+1. __Scene text detection and recognition: Recent advances and future trends.__ _Zhu, Yingying and Yao, Cong and Bai, Xiang_. _Frontiers of Computer Science_, 2016[\[paper\]](https://link.springer.com/article/10.1007/s11704-015-4488-0)
+2. __Text detection, tracking and recognition in video: A comprehensive survey.__ _Yin, Xu-Cheng and Zuo, Ze-Yu and Tian, Shu and Liu, Cheng-Lin_. __TIP__, 2016 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7452620/)
+3. __Text detection and recognition in imagery: A survey.__ _Ye, Qixiang and Doermann, David_. __TPAMI__, 2015  [\[paper\]](https://ieeexplore.ieee.org/abstract/document/6945320/)
+4. __Text localization and recognition in images and video.__ _Uchida, Seiichi_. 2014 [\[paper\]](https://link.springer.com/referenceworkentry/10.1007%2F978-0-85729-859-1_28)
 
 ### II. Main: Scene Text Detection and Recognition
 

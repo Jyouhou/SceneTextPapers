@@ -4,9 +4,11 @@ Tracking the latest progress in Scene Text Detection and Recognition: must-read 
 ## Information about this repository
 This repo serves as a complement to our working paper:
 
-- __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [Link to Arxiv v1](https://arxiv.org/pdf/1811.04256.pdf)
+- __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [Link to Arxiv v2](https://arxiv.org/pdf/1811.04256.pdf)
 
-__This repository will be updated in the following days, together with our survey paper.__
+## Updates 12.7:
+1. The latest version of our paper has been submitted to Arxiv.
+2. New summary figures showing recent trends and comparing their difficultiles. 
 
 ## Papers
 
@@ -88,7 +90,7 @@ __This repository will be updated in the following days, together with our surve
 ###### Irregular text
 1. __Detecting Curve Text in the Wild: New Dataset and New Solution.__ _Yuliang, Liu and Lianwen, Jin and Shuaitao, Zhang and Sheng, Zhang_. 2017 [\[paper\]](https://arxiv.org/abs/1712.02170) [\[code\]](https://github.com/Yuliang-Liu/Curve-Text-Detector)
 2. __Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.__ _Lyu, Pengyuan and Liao, Minghui and Yao, Cong and Wu, Wenhao and Bai, Xiang_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
-3. __TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes.__ _Long, Shangbang and Ruan, Jiaqiang and Zhang, Wenjie and He, Xin and Wu, Wenhao and Yao, Cong_. __ECCV__, 2018 [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-01216-8_2)
+3. __TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes.__ _Long, Shangbang and Ruan, Jiaqiang and Zhang, Wenjie and He, Xin and Wu, Wenhao and Yao, Cong_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf)
 
 ###### Speed up
 1. __EAST: An Efficient and Accurate Scene Text Detector.__ _Zhou, Xinyu and Yao, Cong and Wen, He and Wang, Yuzhi and Zhou, Shuchang and He, Weiran and Liang, Jiajun_. __CVPR__, 2017 [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf) [\[code\]](https://github.com/zxytim/EAST)

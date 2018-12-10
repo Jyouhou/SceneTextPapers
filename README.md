@@ -8,7 +8,7 @@ This repo serves as a complement to our working paper:
 
 ## Updates 12.7:
 1. The latest version of our paper has been submitted to Arxiv.
-2. New summary figures showing recent trends and comparing their difficultiles. 
+2. New summary figures showing recent trends and comparing their differences. 
 
 ## Papers
 

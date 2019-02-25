@@ -87,6 +87,7 @@ This repo serves as a complement to our working paper:
 1. __Detecting Curve Text in the Wild: New Dataset and New Solution.__ _Yuliang, Liu and Lianwen, Jin and Shuaitao, Zhang and Sheng, Zhang_. 2017 [\[paper\]](https://arxiv.org/abs/1712.02170) [\[code\]](https://github.com/Yuliang-Liu/Curve-Text-Detector)
 2. __Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.__ _Lyu, Pengyuan and Liao, Minghui and Yao, Cong and Wu, Wenhao and Bai, Xiang_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 3. __TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes.__ _Long, Shangbang and Ruan, Jiaqiang and Zhang, Wenjie and He, Xin and Wu, Wenhao and Yao, Cong_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf)
+4. __Scene Text Detection with Supervised Pyramid Context Network.__ _Enze Xie, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.08605.pdf)
 
 ###### Speed up
 1. __EAST: An Efficient and Accurate Scene Text Detector.__ _Zhou, Xinyu and Yao, Cong and Wen, He and Wang, Yuzhi and Zhou, Shuchang and He, Weiran and Liang, Jiajun_. __CVPR__, 2017 [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf) [\[code\]](https://github.com/zxytim/EAST)
@@ -124,6 +125,9 @@ This repo serves as a complement to our working paper:
 6. __Arbitrarily-Oriented Text Recognition.__ _Cheng, Zhanzhan and Liu, Xuyang and Bai, Fan and Niu, Yi and Pu, Shiliang and Zhou, Shuigeng_. __CVPR__, 2017 [\[paper\]](https://arxiv.org/abs/1711.04226)
 7. __Edit Probability for Scene Text Recognition.__, _Bai, Fan and Cheng, Zhanzhan and Niu, Yi and Pu, Shiliang and Zhou, Shuigeng_. __CVPR__, 2018 [\[paper\]](https://arxiv.org/pdf/1805.03384.pdf)
 8. __SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network.__ _Liu, Zichuan and Li, Yixing and Ren, Fengbo and Yu, Hao and Goh, Wangling_. __AAAI__, 2018 [\[paper\]](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)
+9. __Show, ttend and read: a simple and strong baseline for recognising irregular text.__ _Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.00751.pdf)
+10. __Scene Text Recognition from Two-Dimensional Perspective.__ _Minghui Liao, Jian Zhang, Zhaoyi Wan, Fengming Xie, Jiajun Liang, Pengyuan Lyu, Cong Yao, Xiang Bai_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1809.06508.pdf)
+
 
 #### 2.3 End-to-End Text Spotting
 ##### 2.3.1 Separately Trained Two-Stage Methods

@@ -6,6 +6,20 @@ This repo serves as a complement to our working paper:
 
 - __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [Draft Version](https://arxiv.org/pdf/1811.04256.pdf)
 
+## Citing this work
+
+If you find this paper helpful in understanding the latest history of scene text detection&recognition algorithms as well as designing new ones , you are highly encouraged
+(though not required) to cite our [paper](https://arxiv.org/abs/1811.04256):
+
+```
+@article{long2018sceneTextSurvey,
+  title={Scene Text Detection and Recognition: The Deep Learning Era},
+  author={Long, Shangbang and He, Xin and Ya, Cong},
+  journal={arXiv preprint arXiv:1811.04256},
+  year={2018}
+}
+```
+
 
 ## Papers
 

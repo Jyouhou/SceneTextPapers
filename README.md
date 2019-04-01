@@ -14,7 +14,7 @@ If you find this paper helpful in understanding the latest history of scene text
 ```
 @article{long2018sceneTextSurvey,
   title={Scene Text Detection and Recognition: The Deep Learning Era},
-  author={Long, Shangbang and He, Xin and Ya, Cong},
+  author={Long, Shangbang and He, Xin and Yao, Cong},
   journal={arXiv preprint arXiv:1811.04256},
   year={2018}
 }

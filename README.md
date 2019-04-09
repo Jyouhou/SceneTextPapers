@@ -139,7 +139,7 @@ If you find this paper helpful in understanding the latest history of scene text
 6. __Arbitrarily-Oriented Text Recognition.__ _Cheng, Zhanzhan and Liu, Xuyang and Bai, Fan and Niu, Yi and Pu, Shiliang and Zhou, Shuigeng_. __CVPR__, 2017 [\[paper\]](https://arxiv.org/abs/1711.04226)
 7. __Edit Probability for Scene Text Recognition.__, _Bai, Fan and Cheng, Zhanzhan and Niu, Yi and Pu, Shiliang and Zhou, Shuigeng_. __CVPR__, 2018 [\[paper\]](https://arxiv.org/pdf/1805.03384.pdf)
 8. __SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network.__ _Liu, Zichuan and Li, Yixing and Ren, Fengbo and Yu, Hao and Goh, Wangling_. __AAAI__, 2018 [\[paper\]](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)
-9. __Show, ttend and read: a simple and strong baseline for recognising irregular text.__ _Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.00751.pdf)
+9. __Show, attend and read: a simple and strong baseline for recognising irregular text.__ _Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.00751.pdf)
 10. __Scene Text Recognition from Two-Dimensional Perspective.__ _Minghui Liao, Jian Zhang, Zhaoyi Wan, Fengming Xie, Jiajun Liang, Pengyuan Lyu, Cong Yao, Xiang Bai_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1809.06508.pdf)
 
 

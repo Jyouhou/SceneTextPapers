@@ -102,6 +102,15 @@ If you find this paper helpful in understanding the latest history of scene text
 2. __Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.__ _Lyu, Pengyuan and Liao, Minghui and Yao, Cong and Wu, Wenhao and Bai, Xiang_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 3. __TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes.__ _Long, Shangbang and Ruan, Jiaqiang and Zhang, Wenjie and He, Xin and Wu, Wenhao and Yao, Cong_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Shangbang_Long_TextSnake_A_Flexible_ECCV_2018_paper.pdf)
 4. __Scene Text Detection with Supervised Pyramid Context Network.__ _Enze Xie, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.08605.pdf)
+5. __Learning Shape-Aware Embedding for Scene Text Detection.__ _Zhuotao Tian, Michelle Shu, Pengyuan Lyu, Ruiyu Li, Chao Zhou, Xiaoyong Shen, Jiaya Jia_. __CVPR__, 2019 [\[paper\]](http://jiaya.me/papers/textdetection_cvpr19.pdf) 
+6. __Arbitrary Shape Scene Text Detection With Adaptive Text Region Representation.__ _Xiaobing Wang, Yingying Jiang, Zhenbo Luo, Cheng-Lin Liu, Hyunsoo Choi, Sungjin Kim_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1905.05980) 
+7. __Towards Robust Curve Text Detection With Conditional Spatial Expansion.__ _Zichuan Liu, Guosheng Lin, Sheng Yang, Fayao Liu, Weisi Lin, Wang Ling Goh_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1903.08836)
+8. __Shape Robust Text Detection With Progressive Scale Expansion Network.__ _Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1806.02559)
+9. __Character Region Awareness for Text Detection.__ _Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1904.01941)
+10. __Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes.__ _Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1904.06535)
+
+
+
 
 ###### Speed up
 1. __EAST: An Efficient and Accurate Scene Text Detector.__ _Zhou, Xinyu and Yao, Cong and Wen, He and Wang, Yuzhi and Zhou, Shuchang and He, Weiran and Liang, Jiajun_. __CVPR__, 2017 [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf) [\[code\]](https://github.com/zxytim/EAST)
@@ -141,7 +150,7 @@ If you find this paper helpful in understanding the latest history of scene text
 8. __SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network.__ _Liu, Zichuan and Li, Yixing and Ren, Fengbo and Yu, Hao and Goh, Wangling_. __AAAI__, 2018 [\[paper\]](https://ren-fengbo.lab.asu.edu/sites/default/files/16354-77074-1-pb.pdf)
 9. __Show, attend and read: a simple and strong baseline for recognising irregular text.__ _Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.00751.pdf)
 10. __Scene Text Recognition from Two-Dimensional Perspective.__ _Minghui Liao, Jian Zhang, Zhaoyi Wan, Fengming Xie, Jiajun Liang, Pengyuan Lyu, Cong Yao, Xiang Bai_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1809.06508.pdf)
-
+11. __ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification.__ _Fangneng Zhan, Shijian Lu_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1812.05824)
 
 #### 2.3 End-to-End Text Spotting
 ##### 2.3.1 Separately Trained Two-Stage Methods
@@ -178,6 +187,11 @@ If you find this paper helpful in understanding the latest history of scene text
 
 ##### 2.4.5 Adversarial Attack
 1. __Adaptive Adversarial Attack on Scene Text Recognition.__ _Yuan, Xiaoyong and He, Pan and Li, Xiaolin Andy_. 2018 [\[paper\]](https://arxiv.org/abs/1807.03326)
+
+
+##### 2.4.6 Evaluation
+1. __Tightness-Aware Evaluation Protocol for Scene Text Detection.__ _Yuliang Liu, Lianwen Jin, Zecheng Xie, Canjie Luo, Shuaitao Zhang, Lele Xie_. __CVPR__ 2019 [\[paper\]](https://arxiv.org/abs/1904.00813)
+
 
 ### III. Datasets
 

@@ -206,7 +206,7 @@ If you find this paper helpful in understanding the latest history of scene text
 | [SVT (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=The_Street_View_Text_Dataset) | 350 (100/250) | 904 (257/647) | Horizontal| En| - | ✓/✓ |
 | [KAIST (2010)](http://www.iapr-tc11.org/mediawiki/index.php?title=KAIST_Scene_Text_Database) | 3000 (-/-) | 5000 (-/-) | Horizontal| En, Ko| Distorted | ✓/✓ |
 | [NEOCR (2011)](http://www.iapr-tc11.org/mediawiki/index.php?title=NEOCR:_Natural_Environment_OCR_Dataset) | 659 (-/-) | 5238 (-/-) | Multi-oriented| 8 langs| - | ✓/✓ |
-| [CUTE (2014)](http://cs-chan.com/downloads_CUTE80_dataset.html) | 80 (-/80) | - (-/-) | Curved | En | - | ✓/✓ |
+| [CUTE (2014)](http://cs-chan.com/downloads_CUTE80_dataset.html) or [here](https://github.com/Jyouhou/CUTE80) | 80 (-/80) | - (-/-) | Curved | En | - | ✓/✓ |
 | [CTW (2017)](https://ctwdataset.github.io) |  32K ( 25K/6K) |  1M ( 812K/205K) | Multi-Oriented | Cn |  Fine-grained annotation | ✓/✓ |
 | [CASIA-10K (2018)](https://github.com/Jyouhou/SceneTextPapers/blob/master/datasets/CASIA-10K.md) | 10K (7K/3K) | - (-/-) | Multi-Oriented | Cn |  | ✓/✓ |
 |Detection Only|====|====|====|====|====|====|

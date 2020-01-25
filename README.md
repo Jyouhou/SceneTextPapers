@@ -108,6 +108,7 @@ If you find this paper helpful in understanding the latest history of scene text
 8. __Shape Robust Text Detection With Progressive Scale Expansion Network.__ _Xiang Li, Wenhai Wang, Wenbo Hou, Ruo-Ze Liu, Tong Lu, Jian Yang_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1806.02559)
 9. __Character Region Awareness for Text Detection.__ _Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1904.01941)
 10. __Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes.__ _Chengquan Zhang, Borong Liang, Zuming Huang, Mengyi En, Junyu Han, Errui Ding, Xinghao Ding_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1904.06535)
+11. __Efficient and Accurate Arbitrary-Shaped Text Detection With Pixel Aggregation Network.__ _Wang, Wenhai and Xie, Enze and Song, Xiaoge and Zang, Yuhang and Wang, Wenjia and Lu, Tong and Yu, Gang and Shen, Chunhua_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.pdf)
 
 
 
@@ -151,6 +152,8 @@ If you find this paper helpful in understanding the latest history of scene text
 9. __Show, attend and read: a simple and strong baseline for recognising irregular text.__ _Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1811.00751.pdf)
 10. __Scene Text Recognition from Two-Dimensional Perspective.__ _Minghui Liao, Jian Zhang, Zhaoyi Wan, Fengming Xie, Jiajun Liang, Pengyuan Lyu, Cong Yao, Xiang Bai_. __AAAI__, 2019 [\[paper\]](https://arxiv.org/pdf/1809.06508.pdf)
 11. __ESIR: End-To-End Scene Text Recognition via Iterative Image Rectification.__ _Fangneng Zhan, Shijian Lu_. __CVPR__, 2019 [\[paper\]](https://arxiv.org/abs/1812.05824)
+12. __What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis.__ _Baek, Jeonghun and Kim, Geewook and Lee, Junyeop and Park, Sungrae and Han, Dongyoon and Yun, Sangdoo and Oh, Seong Joon and Lee, Hwalsuk_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.pdf)
+13. __Symmetry-Constrained Rectification Network for Scene Text Recognition.__ _Yang, Mingkun and Guan, Yushuo and Liao, Minghui and He, Xin and Bian, Kaigui and Bai, Song and Yao, Cong and Bai, Xiang_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.pdf)
 
 #### 2.3 End-to-End Text Spotting
 ##### 2.3.1 Separately Trained Two-Stage Methods
@@ -165,6 +168,8 @@ If you find this paper helpful in understanding the latest history of scene text
 4. __An End-to-End TextSpotter With Explicit Alignment and Attention.__ _He, Tong and Tian, Zhi and Huang, Weilin and Shen, Chunhua and Qiao, Yu and Sun, Changming_. __CVPR__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1390.pdf)
 5. __FOTS: Fast Oriented Text Spotting with a Unified Network.__ _Liu, Xuebo and Liang, Ding and Yan, Shi and Chen, Dagui and Qiao, Yu and Yan, Junjie_. __CVPR__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1699.pdf)
 6. __Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.__ _Lyu, Pengyuan and Liao, Minghui and Yao, Cong and Wu, Wenhao and Bai, Xiang_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
+7. __Towards Unconstrained End-to-End Text Spotting.__ _Qin, Siyang and Bissacco, Alessandro and Raptis, Michalis and Fujii, Yasuhisa and Xiao, Ying_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.pdf)
+8. __TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting.__ _Feng, Wei and He, Wenhao and Yin, Fei and Zhang, Xu-Yao and Liu, Cheng-Lin_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.pdf)
 
 #### 2.4 Auxilliary Techs
 
@@ -173,10 +178,11 @@ If you find this paper helpful in understanding the latest history of scene text
 2. __Synthetic data for text localisation in natural images.__ _Gupta, Ankush and Vedaldi, Andrea and Zisserman, Andrew_. __CVPR__, 2016 [\[paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gupta_Synthetic_Data_for_CVPR_2016_paper.html) [\[code\]](https://github.com/ankush-me/SynthText)
 3. __Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes.__ _Zhan, Fangneng and Lu, Shijian and Xue, Chuhui_. __ECCV__, 2018 [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-01237-3_16) [\[code\]](https://github.com/fnzhan/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes)
 
-##### 2.4.2 Bootstrapping
+##### 2.4.2 Weak/Semi-Supervision
 1. __Wetext: Scene text detection under weak supervision.__ _Tian, Shangxuan and Lu, Shijian and Li, Chongshou_. __ICCV__, 2017 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)
 2. __weakly supervised text attention network for generating text proposals in scene images.__ _Rong, Li and MengYi, En and JianQiang, Li and HaiBin, Zhang_. __ICDAR__, 2017 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8269992/)
 3. __Wordsup: Exploiting word annotations for character based text detection.__ _Hu, Han and Zhang, Chengquan and Luo, Yuxuan and Wang, Yuzhuo and Han, Junyu and Ding, Errui_. __ICCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_WordSup_Exploiting_Word_ICCV_2017_paper.pdf)
+4. __Chinese Street View Text: Large-Scale Chinese Text Reading With Partially Supervised Learning.__ _Sun, Yipeng and Liu, Jiaming and Liu, Wei and Han, Junyu and Ding, Errui and Liu, Jingtuo_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Chinese_Street_View_Text_Large-Scale_Chinese_Text_Reading_With_Partially_ICCV_2019_paper.pdf)
 
 ##### 2.4.3 Deblurring
 1. __Convolutional neural networks for direct text deblurring.__ _Hradis, Michal and Kotera, Jan and Zemcik, Pavel and Sroubek, Filip_. __BMVC__, 2015 [\[paper\]](http://www.fit.vutbr.cz/research/pubs/habil.php.en?file=%2Fpub%2F10922%2Fhradis15CNNdeblurring.pdf&id=10922) [\[code\]](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)

@@ -170,6 +170,7 @@ If you find this paper helpful in understanding the latest history of scene text
 6. __Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes.__ _Lyu, Pengyuan and Liao, Minghui and Yao, Cong and Wu, Wenhao and Bai, Xiang_. __ECCV__, 2018 [\[paper\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pengyuan_Lyu_Mask_TextSpotter_An_ECCV_2018_paper.pdf)
 7. __Towards Unconstrained End-to-End Text Spotting.__ _Qin, Siyang and Bissacco, Alessandro and Raptis, Michalis and Fujii, Yasuhisa and Xiao, Ying_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qin_Towards_Unconstrained_End-to-End_Text_Spotting_ICCV_2019_paper.pdf)
 8. __TextDragon: An End-to-End Framework for Arbitrary Shaped Text Spotting.__ _Feng, Wei and He, Wenhao and Yin, Fei and Zhang, Xu-Yao and Liu, Cheng-Lin_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_TextDragon_An_End-to-End_Framework_for_Arbitrary_Shaped_Text_Spotting_ICCV_2019_paper.pdf)
+9. __Convolutional character networks.__ _Xing, Linjie and Tian, Zhi and Huang, Weilin and Scott, Matthew R_. __ICCV__, 2019 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xing_Convolutional_Character_Networks_ICCV_2019_paper.pdf)
 
 #### 2.4 Auxilliary Techs
 

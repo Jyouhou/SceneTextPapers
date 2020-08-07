@@ -178,6 +178,7 @@ If you find this paper helpful in understanding the latest history of scene text
 1. __Synthetic data and artificial neural networks for natural scene text recognition.__ _Jaderberg, Max and Simonyan, Karen and Vedaldi, Andrea and Zisserman, Andrew_. __NIPS__, 2014 [\[paper\]](https://arxiv.org/abs/1406.2227)
 2. __Synthetic data for text localisation in natural images.__ _Gupta, Ankush and Vedaldi, Andrea and Zisserman, Andrew_. __CVPR__, 2016 [\[paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gupta_Synthetic_Data_for_CVPR_2016_paper.html) [\[code\]](https://github.com/ankush-me/SynthText)
 3. __Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes.__ _Zhan, Fangneng and Lu, Shijian and Xue, Chuhui_. __ECCV__, 2018 [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-01237-3_16) [\[code\]](https://github.com/fnzhan/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes)
+4. __UnrealText: Synthesizing Realistic Scene Text Images from the Unreal World.__ _Long, Shangbang and Yao, Cong_. __CVPR__, 2020, [\[paper\]](https://arxiv.org/pdf/2003.10608.pdf) [\[code\]](https://jyouhou.github.io/UnrealText/)
 
 ##### 2.4.2 Weak/Semi-Supervision
 1. __Wetext: Scene text detection under weak supervision.__ _Tian, Shangxuan and Lu, Shijian and Li, Chongshou_. __ICCV__, 2017 [\[paper\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tian_WeText_Scene_Text_ICCV_2017_paper.pdf)

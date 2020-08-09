@@ -2,9 +2,10 @@
 Tracking the latest progress in Scene Text Detection and Recognition: must-read papers well organized
 
 ## Information about this repository
-This repo serves as a complement to our working paper:
+This repo serves as a complement to our IJCV paper:
 
-- __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [Draft Version](https://arxiv.org/pdf/1811.04256.pdf)
+- __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [arxiv preprint](https://arxiv.org/abs/1811.04256)
+
 
 ## Citing this work
 

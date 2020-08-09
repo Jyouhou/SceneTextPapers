@@ -10,7 +10,7 @@ This repo serves as a complement to our IJCV paper:
 ## Citing this work
 
 If you find this paper helpful in understanding the latest history of scene text detection&recognition algorithms as well as designing new ones , you are highly encouraged
-(though not required) to cite our [paper](https://arxiv.org/abs/1811.04256):
+(though not required) to cite our paper
 
 ```
 @article{long2018sceneTextSurvey,

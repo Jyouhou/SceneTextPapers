@@ -4,7 +4,7 @@ Tracking the latest progress in Scene Text Detection and Recognition: must-read 
 ## Information about this repository
 This repo serves as a complement to our IJCV paper:
 
-- __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [arxiv preprint](https://arxiv.org/abs/1811.04256) [IJCV version](https://link.springer.com/article/10.1007/s11263-020-01369-0)
+- __Scene Text Detection and Recognition: The Deep Learning Era__. _Shangbang Long, Xin He, Cong Yao_. [\[arxiv preprint\]](https://arxiv.org/abs/1811.04256) [\[IJCV version\]](https://link.springer.com/article/10.1007/s11263-020-01369-0)
 
 
 ## Citing this work

@@ -210,6 +210,8 @@ If you find this paper helpful in understanding the latest history of scene text
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |End2End|====|====|====|====|====|====|
 | [HierText (2022)](https://github.com/google-research-datasets/hiertext) | 11639 (8281/1724/1634) | 103.8 per image | All | Latin | Word/line/paragraph annotations | ✓/✓ |
+| [TextOCR (2022)](https://textvqa.org/textocr/) | 28134 (21778/3124/3232) | 32.1 per image | All | English | - | ✓/✓ |
+| [IntelOCR (2022)](https://textvqa.org/textocr/) | 207790 (191059/16731/0) | 10.0 per image | All | English | - | ✓/✓ |
 | [ICDAR03 (2003)](http://www.iapr-tc11.org/mediawiki/index.php?title=ICDAR_2003_Robust_Reading_Competitions) | 509 (258/0/251) | 2276 (1110/1156) | Horizontal | En | - | ✓/✓ |
 | [ICDAR13 Scene Text(2013)](http://dagdata.cvc.uab.es/icdar2013competition/) | 462 (229/0/233) | - (848/1095) | Horizontal | En | - | ✓/✓ |
 | [ICDAR15 Incidental Text(2015)](http://rrc.cvc.uab.es/?ch=4&com=introduction) | 1500 (1000/0/500) | - (-/-) | Multi-Oriented | En |  Blur, Small, Defocused | ✓/✓ |
